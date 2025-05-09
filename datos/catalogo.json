@@ -1,0 +1,169 @@
+[
+    {
+        "id": 1,
+        "nombre": "Azalea",
+        "descripcion": "Sus flores son impresionantes y de diferentes colores, aunque la mayoria se mueve en la gama de rojos, rosas y blancos, con distintas tonalidades.Las azaleas son arbustos ornamentales de la familia Ericaceae, conocidos por su espectacular floración en tonos rosados, blancos, rojos y púrpuras. Son plantas de crecimiento lento que requieren suelos ácidos y bien drenados. Su floración ocurre en primavera y pueden cultivarse en interiores o exteriores con luz indirecta. Son sensibles al exceso de agua y necesitan un ambiente fresco para prosperar.",
+        "precio": 12.5,
+        "imagen": "img/productos/azalea.jpg",
+        "cuidado": "Normal",
+        "categoria": "Ornamental",
+        "tamanio": "Mediana",
+        "temperatura": "15-20°C"
+    
+    },
+    {
+        "id": 2,
+        "nombre": "Begonia",
+        "descripcion": "Es una planta de hojas carnosas y verdes, con unas preciosas flores en tonos amarillos, blancos, rosas o naranjas. Florece desde primavera hasta otoño. Las begonias son plantas tropicales con más de 2,000 especies, clasificadas en rizomatosas, tuberosas y fibrosas. Se caracterizan por su follaje decorativo y flores vibrantes. Prefieren semisombra, suelos bien drenados y riego moderado. Son ideales para interiores y jardines sombreados.",
+        "precio": 10.5,
+        "imagen": "img/productos/begonia.jpg",
+        "cuidado": "Moderado",
+        "categoria": "Ornamental",
+        "tamanio": "Pequeña",
+        "temperatura": "18-24°C"
+
+    },
+    {
+        "id": 3,
+        "nombre": "Begonia amarilla",
+        "descripcion": "Una gran opción, es una planta de hojas carnosas y verdes, con unas flores llamativas en hermosos tonos amarillos. Florece desde primavera hasta otoño. Esta variedad de begonia destaca por sus flores de color amarillo vibrante. Necesita luz indirecta, suelo bien drenado y riego moderado para evitar el exceso de humedad. Se propaga fácilmente mediante esquejes y florece en primavera y verano.",
+        "precio": 10.7,
+        "imagen": "img/productos/begonia_amarilla.jpg",
+        "cuidado": "Moderado",
+        "categoria": "Ornamental",
+        "tamanio": "Pequeña",
+        "temperatura": "18-24°C"
+    },
+    {
+        "id": 4,
+        "nombre": "Flor de flamenco",
+        "descripcion": "Es una impresionante planta que destaca por sus vibrantes y duraderas flores purpuras. Las flores, son de un color purpura intenso con matices rosados.Es una planta tropical con flores rojas brillantes en forma de espádice. Prefiere ambientes húmedos, luz indirecta y temperaturas cálidas entre 20-25°C. Se cultiva como planta de interior y es apreciada por su resistencia y longevidad.",
+        "precio": 15,
+        "imagen": "img/productos/flor_de_flamenco.jpg",
+        "cuidado": "Moderado",
+        "categoria": "Ornamental",
+        "tamanio": "Pequeña",
+        "temperatura": "20-25°C"
+    },
+    {
+        "id": 5,
+        "nombre": "Rosa kordana",
+        "descripcion": "Este rosal compacto es perfecto, ideal para decorar tu hogar o para obsequiar a ese ser especial en tu vida, cautiva con sus vibrantes flores de un rojo intenso que simbolizan la pasión y el amor.Es una variedad de rosa en miniatura con flores en tonos blanco, rosa, amarillo y rojo. Se cultiva en interiores y exteriores, requiere luz brillante y riego moderado. Su floración es prolongada, desde mayo hasta octubre, y es ideal para macetas",
+        "precio": 13.5,
+        "imagen": "img/productos/rosal_kordana.jpg",
+        "cuidado": "Alto",
+        "categoria": "Ornamental",
+        "tamanio": "Mediana",
+        "temperatura": "18-22°C"
+    },
+    {
+        "id": 6,
+        "nombre": "Kalanchoe naranja",
+        "descripcion": "Es una suculenta compacta y resistente que destaca por sus flores de color naranja intenso, lo que la convierte en una opcion perfecta para añadir un toque de color vibrante. El Kalanchoe blossfeldiana es una suculenta con flores naranjas intensas. Es resistente a la sequía y necesita luz indirecta y riego moderado. Se cultiva como planta ornamental y tiene propiedades medicinales.",
+        "precio": 10,
+        "imagen": "img/productos/kalanchoe_naranja.jpg",
+        "cuidado": "Alto",
+        "categoria": "Suculentas",
+        "tamanio": "Mediana",
+        "temperatura": "20-25°C"
+    },
+    {
+        "id": 7,
+        "nombre": "Kalanchoe pinnata",
+        "descripcion": "Planta suculenta conocida como 'hoja de aire', famosa por su capacidad de reproducirse a traves de sus hojas y por sus usos ornamentales y medicinales, se convierte en una gran elección.También conocida como 'siempreviva', esta suculenta es famosa por sus propiedades medicinales. Se reproduce fácilmente a través de plántulas en los bordes de sus hojas. Se usa en la medicina tradicional para tratar inflamaciones y problemas respiratorios.",
+        "precio": 12.3,
+        "imagen": "img/productos/kalanchoe_pinnata.jpg",
+        "cuidado": "Moderado",
+        "categoria": "Suculentas",
+        "tamanio": "Mediana",
+        "temperatura": "20-25°C"
+    },
+    {
+        "id": 8,
+        "nombre": "Orquídea phalaenopsis",
+        "descripcion": "Planta elegante con flores grandes y duraderas en diversos colores, ideal para añadir un toque sofisticado a cualquier espacio. Sin duda alguna de las más populares en el mundo de la jardinería. Es una orquídea epífita con raíces capaces de realizar fotosíntesis. Sus flores pueden ser blancas, rosas, lilas o amarillas. Necesita luz indirecta y riego por inmersión. Es una de las orquídeas más populares por su facilidad de cultivo y floración prolongada.",
+        "precio": 16,
+        "imagen": "img/productos/orquidea_phalaenopsis.jpg",
+        "cuidado": "Normal",
+        "categoria": "Tropical",
+        "tamanio": "Mediana",
+        "temperatura": "18-25°C"
+    },
+    {
+        "id": 9,
+        "nombre": "Flor de la llama",
+        "descripcion": "Es una planta tropical versatil y original, que aporta un toque de exotismo y color a cualquier hogar. Sus hojas verdes oscuras contrastan maravillosamente con las flores de un intenso tono naranja ideal para resaltar y dar un toque especial a tus espacios Esta planta tropical tiene flores de color naranja azafrán y hojas verdes con reverso púrpura. Prefiere ambientes húmedos y temperaturas cálidas. Es apreciada por su capacidad de movimiento nictinástico, cerrando sus hojas por la noche.",
+        "precio": 15.2,
+        "imagen": "img/productos/flor_de_la_llama_eterna.jpg",
+        "cuidado": "Alto",
+        "categoria": "Tropical",
+        "tamanio": "Grande",
+        "temperatura": "20-30°C"
+    },
+    {
+        "id": 10,
+        "nombre": "Crassula ovata",
+        "descripcion": "La Crassula ovata 'Sunset', también conocida como Árbol de Jade 'Sunset', es una suculenta perenne de gran valor ornamental. Se distingue por sus hojas gruesas y carnosas con bordes de tonos dorados y rojizos, que se intensifican con la luz solar. Su porte arbustivo y su resistencia la convierten en una opción ideal para decoración de interiores, jardines xerófitos y colecciones de suculentas. Es una suculenta resistente con hojas carnosas de color verde jade. Tolera la sequía y necesita luz solar parcial y riego moderado. Se usa en jardinería como planta de la suerte y prosperidad.",
+        "precio": 20.5,
+        "imagen": "img/productos/crassula_ovata.png",
+        "cuidado": "Normal",
+        "categoria": "Suculentas",
+        "tamanio": "Pequeña",
+        "temperatura": "20-25°C"
+    },
+    {
+        "id": 11,
+        "nombre": "Bougainvillea glabra",
+        "descripcion": "La Bougainvillea glabra es una variante robusta de las buganvillas, conocida por sus espectaculares brácteas de color rosa intenso púrpura-ciclamino que florecen abundantemente a lo largo del año, especialmente durante los meses cálidos. Es una enredadera con brácteas coloridas en tonos rosa, púrpura y rojo. Necesita pleno sol y suelo bien drenado para florecer abundantemente. Se usa en jardinería y como planta medicinal.",
+        "precio": 10.5,
+        "imagen": "img/productos/bougainvillea_glabra.png",
+        "cuidado": "Alto",
+        "categoria": "Tropical",
+        "tamanio": "Grande",
+        "temperatura": "20-30°C"
+    },
+    {
+        "id": 12,
+        "nombre": "Euphorbia lactea",
+        "descripcion": "Conocida comúnmente como la candelabra cactus, es una suculenta espectacular con una apariencia dramática. Aunque no es un verdadero cactus, esta Euphorbia es popular por sus ramas intrincadamente formadas que se asemejan a los huesos de un coral. También llamada 'huesos de dragón', es una suculenta con tallos verdes y espinosos. Produce un látex irritante, por lo que se debe manipular con precaución. Es resistente y se cultiva como planta ornamental.",
+        "precio": 40.7,
+        "imagen": "img/productos/euphorbia_lactea.png",
+        "cuidado": "Moderado",
+        "categoria": "Suculentas",
+        "tamanio": "Pequeña",
+        "temperatura": "20-25°C"
+    },
+    {
+        "id": 13,
+        "nombre": "Canna indica",
+        "descripcion": "Canna indica o Canna x generalis, es una planta tropical vistosa apreciada tanto por su exótico follaje como por sus brillantes flores. Es una planta robusta y fácil de cultivar, dependiendo de la variedad y las condiciones de cultivo. Conocida como 'achira', es una planta perenne con flores rojas o amarillas. Se cultiva en climas tropicales y su rizoma es comestible. Se usa en la medicina tradicional y como fuente de almidón.",
+        "precio": 15.7,
+        "imagen": "img/productos/canna_indica.png",
+        "cuidado": "Normal",
+        "categoria": "Tropical",
+        "tamanio": "Grande",
+        "temperatura": "20-30°C"
+    },
+    {
+        "id": 14,
+        "nombre": "Cactus de navidad",
+        "descripcion": "El Cactus de Navidad o Santa Teresita, cuyo nombre científico es Schlumbergera, es originario de Brasil y pertenece a la familia de las suculentas, es muy resistente y aunque florece durante el invierno, lo cierto es que podremos disfrutar de él durante todo el año. Es una planta epífita que florece en invierno con flores rosadas, rojas o blancas. Necesita luz indirecta y riego moderado. Es ideal para interiores y su floración coincide con la temporada navideña.",
+        "precio": 6.5,
+        "imagen": "img/productos/cactus_de_navidad.png",
+        "cuidado": "moderado",
+        "categoria": "Suculentas",
+        "tamanio": "Mediana",
+        "temperatura": "15-25°C"
+    },
+    {
+        "id": 15,
+        "nombre": "Tulipán de siam",
+        "descripcion": "El Tulipán de Siam, es una planta tropical originaria de India, Malasia y Tailandia. Esta hermosa planta pertenece a la familia Zingiberaceae, la misma familia del jengibre. Con sus robustos y largos tallos florales y flores extravagantes, la Curcuma es una excelente elección de planta de interior. Es una planta tropical con brácteas rosadas y flores pequeñas. Se cultiva como planta de interior y requiere luz indirecta y suelo húmedo. Es apreciada en la floricultura por su belleza y resistencia.",
+        "precio": 20,
+        "imagen": "img/productos/tulipan_de_siam.png",
+        "cuidado": "Alto",
+        "categoria": "Tropical",
+        "tamanio": "Mediana",
+        "temperatura": "20-30°C"
+    }
+]

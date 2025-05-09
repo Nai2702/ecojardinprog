@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "inicio",
+        "titulo": "Bienvenido",
+        "activa": 1,
+        "restringida": 0
+
+    },
+    {
+        "nombre": "datos",
+        "titulo": "Datos personales",
+        "activa": 1,
+        "restringida": 0
+
+    },
+    {
+        "nombre": "contacto",
+        "titulo": "Contacto",
+        "activa": 1,
+        "restringida": 0
+
+    },
+    {
+        "nombre": "catalogo_completo",
+        "titulo": "Nuestro Catálogo",
+        "activa": 1,
+        "restringida": 0
+
+    },
+    {
+        "nombre": "catalogo",
+        "titulo": "Plantas",
+        "activa": 1,
+        "restringida": 0
+
+    },
+    {
+        "nombre": "producto",
+        "titulo": "Producto",
+        "activa": 1,
+        "restringida": 0
+
+    }
+]
